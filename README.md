@@ -1,10 +1,9 @@
-﻿# Android EAT IT
+# Android EAT IT
 tested on API 28, nexus5X
 
- ● Used Firebase to store restaurant data, Applied MVC pattern design style for client
-side & server side.
+ ● Uses Firebase to store data for restraunt
 
- ● Provided sign in/sign up function, menu and food list loading, orders management
-process, and notifications for users
+ ● Provides sign in/sign up function, menu and food list loading, orders management
+process, and notifications for all the users
 
- ● Applied multi-threading manipulation, synchronization, JUnit Runner test as back end
+ ● Multi-threading manipulation
